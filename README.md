@@ -33,9 +33,9 @@ The hardware setup used a **14.4Ω bulb** as a load. Photos of the assembly and 
 
 ## Repository Contents
 * **`Simulation/`**: Multisim circuit design files (`.ms14`).
-* **`Documentation/`**: Formal Technical Project Report in PDF format.
+* **`Project_Report.pdf`**: Formal Technical Project Report in PDF format.
 * **`hardware images/`**: Photos of the working breadboard prototype.
-* **`Technical_References/`**: Component datasheets (C106D) and supporting research paper.
+* **`Technical-References/`**: Component datasheets (C106D) and supporting research paper.
 
 ## Development Team
 * **Shahmeer Hussain** — [@shahmeeerx](https://github.com/shahmeeerx) (2022F-BBM-014)
